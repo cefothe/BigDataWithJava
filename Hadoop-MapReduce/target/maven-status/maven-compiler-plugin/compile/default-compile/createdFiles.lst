@@ -1,0 +1,3 @@
+eu/stefanangelov/hadoop/mapreduce/wordcount/WordCount$TokenizerMapper.class
+eu/stefanangelov/hadoop/mapreduce/wordcount/WordCount$IntSumReducer.class
+eu/stefanangelov/hadoop/mapreduce/wordcount/WordCount.class
